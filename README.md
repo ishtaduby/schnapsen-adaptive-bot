@@ -35,6 +35,16 @@ We tested thresholds of **15, 25, 35, 45, and 55**, playing **1,000 games per th
 
 The analysis script also calculates a one-way ANOVA and an eta-squared effect-size measure for comparing outcomes across thresholds.
 
+## Experimental Results
+
+![Adaptive Bot Win Rates](schnapsen_win_rates.png)
+
+We evaluated five strategy-switching thresholds
+across 5,000 simulated games against RDeep.
+
+The threshold of 15 achieved the highest win rate
+of 30.6% among the tested configurations.
+
 ## Our contribution
 
 This was a **collaborative project completed with a teammate**. Together, we worked on the student-developed components:
