@@ -113,4 +113,14 @@ To inspect the results without rerunning the games, use the included `experiment
 - **Provided framework:** [Schnapsen platform — Intelligent Systems course](https://github.com/intelligent-systems-course/schnapsen), including its engine and existing bots.
 - **License:** This repository includes the provided framework's GNU General Public License v3 (`LICENSE`). Retain applicable licensing and attribution when redistributing the framework or derivative work.
 
+## Contributors
+
+This project was collaboratively developed by:
+
+- [Ishita](https://github.com/ishtaduby)
+- [Banu](https://github.com/BanuKizilirmak)
+
+We worked together on the adaptive AI bot,
+experimental evaluation, and analysis.
+
 This repository is an educational project and is not presented as a complete original implementation of Schnapsen.
